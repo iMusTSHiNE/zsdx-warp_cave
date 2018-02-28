@@ -1,0 +1,19 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 420,
+  height = 420,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "0",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 0,
+  width = 96,
+  height = 288,
+  pattern = "3",
+}
+
